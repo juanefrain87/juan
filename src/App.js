@@ -16,7 +16,7 @@ function App() {
   return (
     <Router>
     <Routes>
-      <Route path="/" element={<Login />} />
+      <Route path="https://juanefrain87.github.io/galletas/" element={<Login />} />
       <Route path="/sesion-iniciada" element={<ComponenteB />} />
     </Routes>
   </Router>
