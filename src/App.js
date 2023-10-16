@@ -14,7 +14,7 @@ import {
 
 function App() {
   return (
-    <h1>jpapapap</h1>
+    <ComponenteB></ComponenteB>
 
   );
 }
