@@ -14,12 +14,7 @@ import {
 
 function App() {
   return (
-    <Router>
-    <Routes>
-      <Route path="/" element={<Login />} />
-      <Route path="/sesion-iniciada" element={<ComponenteB />} />
-    </Routes>
-  </Router>
+    <h1>jpapapap</h1>
 
   );
 }
